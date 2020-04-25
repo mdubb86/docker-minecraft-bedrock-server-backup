@@ -1,0 +1,3 @@
+#!/usr/bin/with-contenv /bin/bash
+echo "Starting backup process"
+exec python3 /backup.py
